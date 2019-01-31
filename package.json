@@ -1,0 +1,28 @@
+{
+  "name": "rumor",
+  "version": "1.0.0",
+  "description": "rumor checker",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node ./index.js",
+    "test": "jest ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/travisliu/rumor.git"
+  },
+  "keywords": [
+    "rumor",
+    "line",
+    "bot"
+  ],
+  "author": "Travis Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/travisliu/rumor/issues"
+  },
+  "homepage": "https://github.com/travisliu/rumor#readme",
+  "dependencies": {
+    "string-similarity": "^3.0.0"
+  }
+}
