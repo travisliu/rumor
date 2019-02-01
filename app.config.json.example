@@ -8,6 +8,7 @@
     "cofactsArticleUrl": "https://cofacts.g0v.tw/article/",
     "similarity": 0.8,
     "cofactsHost": "cofacts-api.g0v.tw",
-    "cofactsPath": "/graphql?"
+    "cofactsPath": "/graphql?",
+    "intro": "早安您好～我是美玉姨!\n阿姨喜歡聽大家說的各種話並即時查詢假消息，\n我會提供多元看法幫助各位多想一下。\n至於大家曾經講過什麼，阿姨記性不好，過目即忘～\n很開心認識新朋友 <3"
   }
 }
