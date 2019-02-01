@@ -1,0 +1,13 @@
+{
+  "lineAuth": {
+    "channelId":          "id",
+    "channelSecret":      "secret",
+    "channelAccessToken": "token"
+  },
+  "event": {
+    "cofactsArticleUrl": "https://cofacts.g0v.tw/article/",
+    "similarity": 0.8,
+    "cofactsHost": "cofacts-api.g0v.tw",
+    "cofactsPath": "/graphql?"
+  }
+}
